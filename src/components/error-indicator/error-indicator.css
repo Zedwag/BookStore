@@ -1,0 +1,15 @@
+.error-indicator {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: black;
+}
+  
+.error-indicator img {
+    margin-bottom: 1rem;
+}
+  
+.error-indicator .oops {
+    font-size: 2.2rem;
+}
